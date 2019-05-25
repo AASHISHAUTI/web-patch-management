@@ -1,0 +1,1 @@
+<?php show_source("xss_patch.php")?>;
